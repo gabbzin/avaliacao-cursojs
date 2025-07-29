@@ -95,7 +95,7 @@ if (mediaFinal >= 6 && frequencia >= 75){
     console.log("Reprovado")
 }
 
-// 7. Menor Número da lista
+// 7. Maior Número da lista
 let listaDeNumeros = [42, 7, 91, 3, 55, 12, 88, 29, 64, 18];
 let maior = Number.MIN_VALUE;
 
